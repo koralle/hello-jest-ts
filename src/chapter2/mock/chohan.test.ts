@@ -19,4 +19,5 @@ describe("jest.mock()を利用したモック化", () => {
       expect(chohan()).toBe("半");
     });
   });
+
 });
